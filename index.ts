@@ -181,3 +181,5 @@ class Dog2 extends Animal2 {
 //可以调用抽象类中的方法
 let dog2=new Dog2();
 dog2.run();
+
+console.log(getUser());
